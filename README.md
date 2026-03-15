@@ -1,16 +1,16 @@
-## Hi there 👋
+# Olá, eu sou o Alexandre Junio 👋
 
-<!--
-**Junio243/Junio243** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🏆 Certificações Profissionais (HackerRank)
+Aqui estão minhas validações técnicas oficiais:
 
-Here are some ideas to get you started:
+* **Software Engineer (Role Certificate)** [![Software Engineer](https://img.shields.io/badge/-Visualizar_Certificado-00509E?style=flat-square&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/certificates/e31d61e68ee5)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* **C# Basic (Skill Certificate)**
+  [![C# Basic](https://img.shields.io/badge/-Visualizar_Certificado-2EC866?style=flat-square&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/certificates/90415136ce56)
+
+---
+
+### 🚀 Sobre Mim
+- 🎓 Cursando Psicologia, Biomedicina, Administração e Gestão de RH.
+- 💻 Desenvolvedor C# focado em IA e automação.
+- 🛠️ Projetos Principais: **SignFlow** 
