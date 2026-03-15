@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6EE7F7,100:9B59B6&height=200&section=header&text=Junio%20Canuto&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Pleno%20Full-Stack%20Developer%20%7C%20Bras%C3%ADlia%2C%20BR%20%F0%9F%87%A7%F0%9F%87%B7&descAlignY=56&descSize=18" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6EE7F7,100:9B59B6&height=200&section=header&text=Junio%20Canuto&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%7C%20AI%20%26%20SaaS%20%7C%20Bras%C3%ADlia%2C%20BR%20%F0%9F%87%A7%F0%9F%87%B7&descAlignY=56&descSize=17" width="100%" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6EE7F7&center=true&vCenter=true&width=640&lines=Pleno+Full-Stack+Developer+%F0%9F%9A%80;Building+the+future%2C+one+commit+at+a+time;Next.js+%7C+TypeScript+%7C+Supabase+%7C+Vercel;AI+Enthusiast+%7C+17+y%2Fo+%7C+Bras%C3%ADlia%2C+BR)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6EE7F7&center=true&vCenter=true&width=640&lines=Software+Engineer+%7C+AI+%26+SaaS+%F0%9F%9A%80;Building+real+products%2C+one+commit+at+a+time;Next.js+%7C+TypeScript+%7C+Supabase+%7C+Vercel;AI+Agents+%7C+Digital+Signatures+%7C+Cloud)](https://git.io/typing-svg)
 
 </div>
 
@@ -12,13 +12,13 @@
 
 <div align="center">
 
-🌍 **Brasília, DF — Brasil** &nbsp;|&nbsp; 🎂 **17 anos** &nbsp;|&nbsp; ⚡ **Pleno Full-Stack Developer**
+🌍 **Brasília, DF — Brasil** &nbsp;|&nbsp; 🎂 **17 anos** &nbsp;|&nbsp; ⚡ **Software Engineer | AI & SaaS**
 
 </div>
 
 <br/>
 
-🚀 &nbsp;Pleno Full-Stack Developer com projetos reais em produção — de APIs a plataformas completas de assinatura digital
+🚀 &nbsp;Software Engineer com projetos reais em produção — de APIs a plataformas completas de assinatura digital
 
 🤖 &nbsp;Fascinado por IA, agentes autônomos e automação de tudo que puder ser automatizado
 
