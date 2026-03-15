@@ -18,7 +18,7 @@
 
 <br/>
 
-🎓 &nbsp;Cursando 3º ano do Ensino Médio + Técnico em Enfermagem + disciplinas de Psicologia
+🎓 &nbsp;Cursando 3º semestre do Curso de TI Uniube
 
 🚀 &nbsp;Apaixonado por construir produtos reais — de APIs a plataformas completas de assinatura digital
 
