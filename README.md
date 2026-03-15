@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6EE7F7,100:9B59B6&height=200&section=header&text=Junio%20Canuto&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20S%C3%A3o%20Paulo%2C%20BR%20%F0%9F%87%A7%F0%9F%87%B7&descAlignY=56&descSize=18" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6EE7F7,100:9B59B6&height=200&section=header&text=Junio%20Canuto&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Bras%C3%ADlia%2C%20BR%20%F0%9F%87%A7%F0%9F%87%B7&descAlignY=56&descSize=18" width="100%" />
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6EE7F7&center=true&vCenter=true&width=620&lines=Building+the+future%2C+one+commit+at+a+time+%F0%9F%9A%80;Full-Stack+Dev+%7C+AI+Enthusiast+%7C+17+y%2Fo;Next.js+%7C+TypeScript+%7C+Supabase+%7C+Vercel;From+Ceil%C3%A2ndia+to+the+cloud+%E2%98%81%EF%B8%8F)](https://git.io/typing-svg)
 
@@ -10,26 +10,23 @@
 
 ## 🧑‍💻 About Me
 
-```typescript
-const junio = {
-  name:       "Alexandre Junio Canuto Lopes",
-  location:   "São Paulo, BR 🇧🇷",
-  age:        17,
-  role:       "Junior Full-Stack Developer",
-  education:  ["3rd year High School", "Technical Nursing", "Psychology coursework"],
-  currentFocus: [
-    "🖊️  Digital Signature & Document Auth (SignFlow)",
-    "🤖  AI Agents & Browser Automation",
-    "☁️  Cloud Infra: Vercel · Supabase · Oracle · Azure",
-  ],
-  certifications: [
-    "HackerRank — Software Engineer",
-    "HackerRank — Problem Solving Intermediate",
-    "HackerRank — C# Basic",
-  ],
-  funFact: "I ship SaaS apps at 2 AM and review anatomy notes by morning 🧠",
-};
-```
+<div align="center">
+
+🌍 **Brasília, DF — Brasil** &nbsp;|&nbsp; 🎂 **17 anos** &nbsp;|&nbsp; 💼 **Junior Full-Stack Developer**
+
+</div>
+
+<br/>
+
+🎓 &nbsp;Cursando 3º ano do Ensino Médio + Técnico em Enfermagem + disciplinas de Psicologia
+
+🚀 &nbsp;Apaixonado por construir produtos reais — de APIs a plataformas completas de assinatura digital
+
+🤖 &nbsp;Fascinado por IA, agentes autônomos e automação de tudo que puder ser automatizado
+
+☁️ &nbsp;Heavy user de cloud: **Vercel · Supabase · Oracle · Azure · GCP**
+
+🧠 &nbsp;Fun fact: lanço SaaS às 2h da manhã e reviso anatomia antes do café ☕
 
 ---
 
