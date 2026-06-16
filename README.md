@@ -12,7 +12,7 @@
 
 <div align="center">
 
-🌍 **Brasília, DF — Brasil** &nbsp;|&nbsp; 🎂 **17 anos** &nbsp;|&nbsp; ⚡ **Software Engineer | AI & SaaS**
+🌍 **Brasília, DF — Brasil** &nbsp;|&nbsp; 🎂 **18 anos** &nbsp;|&nbsp; ⚡ **Software Engineer | AI & SaaS**
 
 </div>
 
